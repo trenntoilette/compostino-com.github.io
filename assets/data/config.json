@@ -2,12 +2,13 @@
     "hostname": "https://www.trenntoilette.net",
     "title": "Trenntoilette",
     "lang": "de",
-    "multilanguage": true,
+    "defaultLanguage": "en",
+    "multiLanguage": true,
     "languages": [
         {
             "rel": "alternate",
             "hreflang": "x-default",
-            "href": "https://www.trenntoilette.net"
+            "href": "https://www.compostino.com"
         },
         {
             "rel": "alternate",

@@ -1,4 +1,4 @@
-import config from "~/assets/data/config.json"
+import config from "./assets/data/config.json"
 
 export default {
     // Target: https://go.nuxtjs.dev/config-target
