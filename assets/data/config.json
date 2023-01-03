@@ -1,7 +1,7 @@
 {
     "hostname": "https://www.trenntoilette.net",
     "title": "Composting toilet",
-    "lang": "de",
+    "lang": "en",
     "defaultLanguage": "en",
     "multiLanguage": true,
     "languages": [
@@ -27,6 +27,9 @@
         },
         "/campingtoilette/": {
             "en": "/campingtoilet/"
+        },
+        "/campingtoilet/": {
+            "de": "/campingtoilette/"
         }
     },
     "navigationLinks": [

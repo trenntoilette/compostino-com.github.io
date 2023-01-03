@@ -7,18 +7,16 @@
             <div class="block">
               <div class="divider mb-3"></div>
               <span class="text-uppercase lead letter-spacing text-light"
-                >Wir finden für Sie die beste</span
+                >In search for the best</span
               >
-              <h1 class="mb-3 mt-3 text-light">Trenntoilette</h1>
+              <h1 class="mb-3 mt-3 text-light">composting toilet</h1>
 
               <p class="lead mb-4 pr-5 text-light">
-                Wenn Sie auf der Suche nach einer Trenntoilette sind, sind Sie
-                hier genau richtig. Wir testen und zeigen Ihnen die beste
-                Trenntoilette für Ihr Einsatzgebiet.
+                If you are looking for a composting toilet, you have come to the right place. We test and show you the best composting toilet for your application.
               </p>
               <div class="btn-container">
                 <a href="#sieger" class="btn btn-main-2 btn-icon btn-round-full"
-                  >Zu den Testsiegern ></a
+                  >see all test winners ></a
                 >
               </div>
             </div>
@@ -44,17 +42,16 @@
           <div class="col-lg-4">
             <div class="about-content pl-4 mt-4 mt-lg-0">
               <h2 class="title-color">
-                Trenntoilette - ganz ohne Wasser <br />& Chemie
+                Composting toilet - completely without water <br />& chemistry
               </h2>
               <p class="mt-4 mb-5 lead">
-                Wir testen ausschließlich Trenntoiletten bei denen keine Chemie
-                oder Wasser benötigt wird. Der Umwelt zu Liebe.
+                We exclusively test composting toilets which do not require any chemicals or water is needed. For the sake of the environment.
               </p>
 
               <a
                 href="#trenntoiletten"
                 class="btn btn-main-2 btn-round-full btn-icon"
-                >Alle Trenntoiletten ansehen ></a
+                >See all composting toilets ></a
               >
             </div>
           </div>
@@ -70,8 +67,7 @@
               <div class="h2">Blog News</div>
               <div class="divider mx-auto my-4"></div>
               <p class="lead">
-                Informationen, News und Angebote rund um das Thema
-                Trenntoiletten
+                Information, news and offers around the topic: composting toilets
               </p>
             </div>
           </div>
@@ -94,25 +90,24 @@
               <div class="card-body">
                 <nuxt-link
                   to="/blog/posts/campingtoilette-vergleich/"
-                  title="Campingtoiletten unter 250 Euro im Vergleich"
+                  title="Camping toilets under 250 € compared"
                 >
                   <h5 class="card-title">
-                    Campingtoiletten unter 250 € im Vergleich
+                    Camping toilets under 250 € compared
                   </h5>
                 </nuxt-link>
                 <p class="card-text">
-                  Unter Campern wird das Thema Campingtoilette aktuell heiß
-                  diskutiert...
+                  Among campers, the topic of camping toilet is currently hotly discussed...
                 </p>
                 <p class="card-text">
                   <small class="text-muted">15. August 2022</small>
                 </p>
                 <nuxt-link
                   to="/blog/posts/campingtoilette-vergleich/"
-                  title="Campingtoiletten unter 250 Euro im Vergleich"
+                  title="Camping toilets under 250 € compared"
                   class="btn btn-main-2 btn-icon btn-round-full"
                 >
-                  weiterlesen</nuxt-link
+                  read more</nuxt-link
                 >
               </div>
             </div>
@@ -127,10 +122,10 @@
         <div class="row justify-content-center">
           <div class="col-lg-7 text-center">
             <div class="section-title">
-              <div class="h2">Trenntoilette Testsieger</div>
+              <div class="h2">Composting toilets test winner</div>
               <div class="divider mx-auto my-4"></div>
               <p class="lead">
-                Wir stellen vor: Die besten Trenntoiletten nach Kategorien
+                 We present: The best composting toilets by category
               </p>
             </div>
           </div>
@@ -150,15 +145,14 @@
               </a>
               <div class="content">
                 <h5 class="mt-4 mb-2 title-color">
-                  Testsieger<br />"Trenntoilette im Haus"
+                  Test winner<br />"Composting toilet in the house"
                 </h5>
                 <h3 class="mt-4 mb-2 title-color">TROBOLO® TeraBlœm</h3>
                 <p class="mb-4 lead">
-                  Testsieger TeraBlœm von Trobolo. Ausgezeichnete Qualität bei
-                  bestem Komfort und Preis.
+                  Test winner TeraBlœm from TROBOLO. Excellent quality with best comfort and price.
                 </p>
                 <a href="/trobolo-terabloem/" title="TROBOLO TeraBloem">
-                  <h4>Zum Testbericht ></h4>
+                  <h4>Read the test report ></h4>
                 </a>
               </div>
             </div>
@@ -177,15 +171,14 @@
               </a>
               <div class="content">
                 <h5 class="mt-4 mb-2 title-color">
-                  Testsieger<br />"Trenntoilette im Garten"
+                  Test winner<br />"Composting toilets for the garden"
                 </h5>
                 <h3 class="mt-4 mb-2 title-color">TROBOLO® KersaBœm</h3>
                 <p class="mb-4 lead">
-                  Testsieger KersaBœm von Trobolo. Autarke Trenntoilette für den
-                  Garten. Mit Trenn- und Abluftsystem.
+                  Test winner KersaBœm from TROBOLO. Self-sufficient composting toilet for the garden. With composting and exhaust system.
                 </p>
                 <a href="/trobolo-kersaboem/" title="TROBOLO KersaBoem">
-                  <h4>Zum Testbericht ></h4>
+                  <h4>Read the test report ></h4>
                 </a>
               </div>
             </div>
@@ -204,15 +197,14 @@
               </a>
               <div class="content">
                 <h5 class="mt-4 mb-2 title-color">
-                  Testsieger<br />"Camping Toilette"
+                  Test winner<br />"Campingtoilet"
                 </h5>
                 <h3 class="mt-4 mb-2 title-color">Kildwick MiniLoo</h3>
                 <p class="mb-4 lead">
-                  Die Camping Toilette als Bausatz. Kostengünstig, Platzsparend
-                  und leicht im Gewicht.
+                  The camping toilet as a kit. Cost-effective, space-saving and light in weight.
                 </p>
                 <a href="/kildwick-miniloo/" title="Kildwick MiniLoo">
-                  <h4>Zum Testbericht ></h4>
+                  <h4>Read the test report ></h4>
                 </a>
               </div>
             </div>
@@ -226,11 +218,10 @@
         <div class="row justify-content-center">
           <div class="col-lg-7 text-center">
             <div class="section-title">
-              <div class="h2">Welche Vorteile bietet eine Trenntoilette?</div>
+              <div class="h2">What are the advantages of a composting toilet?</div>
               <div class="divider mx-auto my-4"></div>
               <p class="lead">
-                6 trifftige Gründe warum du den Wechsel zu einer Trenntoilette
-                in Betracht ziehen solltest.
+                6 powerful reasons why you should consider switching to a disconnect toilet. 
               </p>
             </div>
           </div>
@@ -246,12 +237,12 @@
                   format="webp"
                   quality="90"
                 />
-                <h4 class="mt-3 mb-3">Chemiefrei</h4>
+                <h4 class="mt-3 mb-3">Chemical free</h4>
               </div>
 
               <div class="content">
                 <p class="mb-4 lead">
-                  Eine Trenntoilette kommt ohne Chemie aus
+                  A composting toilet does without chemicals
                 </p>
               </div>
             </div>
@@ -266,11 +257,11 @@
                   format="webp"
                   quality="90"
                 />
-                <h4 class="mt-3 mb-3">Wasserersparnis</h4>
+                <h4 class="mt-3 mb-3">Water saving</h4>
               </div>
               <div class="content">
                 <p class="mb-4 lead">
-                  Trenntoiletten benötigen keinen Wasseranschluss
+                  Composting toilets do not require water connection
                 </p>
               </div>
             </div>
@@ -285,11 +276,11 @@
                   format="webp"
                   quality="90"
                 />
-                <h4 class="mt-3 mb-3">Geruchsfrei</h4>
+                <h4 class="mt-3 mb-3">Odorless</h4>
               </div>
               <div class="content">
                 <p class="mb-4 lead">
-                  Durch die Trennung von Urin und Stuhl entstehen keine Gerüche
+                  Separation of urine and stool does not create odors
                 </p>
               </div>
             </div>
@@ -304,12 +295,12 @@
                   format="webp"
                   quality="90"
                 />
-                <h4 class="mt-3 mb-3">Einfache Entsorgung</h4>
+                <h4 class="mt-3 mb-3">Simple disposal</h4>
               </div>
 
               <div class="content">
                 <p class="mb-4 lead">
-                  Durch Trenneinsätze ist die Entsorgung kinderleicht
+                  Disposal is child's play thanks to separating inserts
                 </p>
               </div>
             </div>
@@ -324,11 +315,11 @@
                   format="webp"
                   quality="90"
                 />
-                <h4 class="mt-3 mb-3">Umweltfreundlich</h4>
+                <h4 class="mt-3 mb-3">Environmentally friendly</h4>
               </div>
               <div class="content">
                 <p class="mb-4 lead">
-                  Weder kostbares Wasser noch Chemie wird benötigt
+                  Neither precious water nor chemicals are needed
                 </p>
               </div>
             </div>
@@ -343,11 +334,11 @@
                   format="webp"
                   quality="90"
                 />
-                <h4 class="mt-3 mb-3">Nachhaltig</h4>
+                <h4 class="mt-3 mb-3">Sustainable</h4>
               </div>
               <div class="content">
                 <p class="mb-4 lead">
-                  Nutzen Sie den nährstoffreichen Kompost und sparen Sie Geld
+                  Use the nutrient-rich compost and save money
                 </p>
               </div>
             </div>
@@ -361,14 +352,10 @@
         <div class="row justify-content-center">
           <div class="col-lg-8 text-center">
             <div class="section-title">
-              <div class="h2">Trenntoiletten</div>
+              <div class="h2">Composting toilet</div>
               <div class="divider mx-auto my-4"></div>
               <p class="lead">
-                Für jedes Einsatzgebiet findest du eine passende Trenntoilette.
-                Egal ob im Haus, im Garten oder unterwegs im Camper. Folgende
-                Trenntoiletten haben wir getestet und sind führend in Sachen
-                Nachhaltigkeit, Umweltfreundlichkeit, Geruchsentwicklung und
-                Entsorgung.
+                You will find a suitable composting toilet for every application. Whether in the house, in the garden or on the road in the camper. The following composting toilets we have tested and are leading in terms of sustainability, environmental friendliness, odor and disposal. disposal.
               </p>
             </div>
           </div>
@@ -382,13 +369,13 @@
                 name="shuffle-filter"
                 value="all"
                 checked="checked"
-              />Alle Einsatzgebiete
+              />All fields of application
             </label>
             <label class="btn">
-              <input type="radio" name="shuffle-filter" value="haus" />Haus
+              <input type="radio" name="shuffle-filter" value="haus" />House
             </label>
             <label class="btn">
-              <input type="radio" name="shuffle-filter" value="garten" />Garten
+              <input type="radio" name="shuffle-filter" value="garten" />Garden
             </label>
             <label class="btn">
               <input
@@ -425,7 +412,7 @@
                     >TeraBlœm</a
                   >
                 </h4>
-                <p class="lead">Trobolo</p>
+                <p class="lead">TROBOLO</p>
               </div>
             </div>
           </div>
@@ -454,7 +441,7 @@
                     >KersaBœm</a
                   >
                 </h4>
-                <p class="lead">Trobolo</p>
+                <p class="lead">TROBOLO</p>
               </div>
             </div>
           </div>
@@ -483,7 +470,7 @@
                     >KitaBœm</a
                   >
                 </h4>
-                <p class="lead">Trobolo</p>
+                <p class="lead">TROBOLO</p>
               </div>
             </div>
           </div>
@@ -512,7 +499,7 @@
                     >WandaGO</a
                   >
                 </h4>
-                <p class="lead">Trobolo</p>
+                <p class="lead">TROBOLO</p>
               </div>
             </div>
           </div>
@@ -684,12 +671,10 @@
           <div class="col-lg-6 col-md-10">
             <div class="appoinment-wrap mt-5 mt-lg-0">
               <div class="h2 mb-2 title-color">
-                Haben Sie noch weitere Fragen?
+                Do you have any other questions?
               </div>
               <p class="mb-4 lead">
-                Haben Sie noch offene Fragen bezüglich einer Trenntoilette?
-                Kontaktieren Sie uns gerne und wir beantworten Ihre Frage
-                umgehend, unverbindlich und kostenfrei.
+                Do you still have open questions regarding a separation toilet? Please contact us and we will answer your question immediately, without obligation and free of charge.
               </p>
               <form id="#" class="appoinment-form" method="post" action="#">
                 <div class="row">
@@ -700,7 +685,7 @@
                         id="name"
                         type="text"
                         class="form-control"
-                        placeholder="Ihr Name"
+                        placeholder="Your name"
                       />
                     </div>
                   </div>
@@ -712,7 +697,7 @@
                         id="email"
                         type="email"
                         class="form-control"
-                        placeholder="Ihre Email"
+                        placeholder="Your email"
                       />
                     </div>
                   </div>
@@ -723,7 +708,7 @@
                     id="message"
                     class="form-control"
                     rows="6"
-                    placeholder="Ihre Nachricht"
+                    placeholder="Your message"
                   ></textarea>
                 </div>
 
@@ -731,7 +716,7 @@
                   class="btn btn-main btn-round-full"
                   href="#"
                   onclick="alert('todo!');"
-                  >Nachricht abschicken ></a
+                  >Send message ></a
                 >
               </form>
             </div>
@@ -746,16 +731,11 @@
           <div class="col-lg-7">
             <div class="section-title text-center">
               <div class="h2">
-                Wir haben über 5000+ Menschen geholfen die passende
-                Trenntoilette zu finden
+                We have helped over 5000+ people find the right composting toilet
               </div>
               <div class="divider mx-auto my-4"></div>
               <p class="lead">
-                Wir kennen es selbst, die Auswahl einer passenden Trenntoilette
-                ist zunächst nicht einfach und zu Anfang mit nicht-geringen
-                Anschaffungskosten verbunden. Aber es lohnt sich und langfristig
-                sparen Sie viel Geld. Lesen Sie selbst was unsere Leser dazu
-                schreiben.
+                We know it ourselves, the selection of a suitable composting toilet is not easy at first and at the beginning it is connected with non-small costs at the beginning. But it is worth it and in the long run you save a lot of money. Read for yourself what our readers write.
               </p>
             </div>
           </div>
@@ -777,13 +757,10 @@
               </div>
 
               <div class="client-info">
-                <h4>"Endlich die passende Trenntoilette!"</h4>
-                <span>Jennifer aus München</span>
+                <h4>"Finally the right composting toilet!"</h4>
+                <span>Jennifer from Munich, Germany</span>
                 <p>
-                  Cool ich habe endlich die richtige Trenntoilette gefunden!
-                  Danke. Hatte lange gesucht aber war mir die ganze Zeit
-                  unschlüssig. Mit der TeraBlœm hab ich nun die optimale
-                  Trenntoilette für zu Hause gefunden.
+                  Cool I finally found the right composting toilet! Thank you. Had been looking for a long time but was all the time undecided. With the TeraBlœm I have now found the optimal composting toilet for my home.
                 </p>
               </div>
 
@@ -806,13 +783,10 @@
               </div>
 
               <div class="client-info">
-                <h4>"Ich bin sehr zufrieden"</h4>
-                <span>Nicolas aus Hannover</span>
+                <h4>"I am very satisfied"</h4>
+                <span>Nicolas from Hannover, Germany</span>
                 <p>
-                  Ich hatte lange gezögert mir eine Trenntoilette online zu
-                  kaufen aber dadurch das Ihr mir persönlich auf meine Anfragen
-                  geantwortet habt, hab ich endlich den Entschluss gefasst und
-                  bin sehr zufrieden.
+                  I had long hesitated to buy a composting toilet online but because of your personal response to my inquiries I finally made the decision and I am very satisfied.
                 </p>
               </div>
 
@@ -835,13 +809,10 @@
               </div>
 
               <div class="client-info">
-                <h4>"Beste Qualität und fairer Preis"</h4>
-                <span>Vick aus Kiel</span>
+                <h4>"Best quality and fair price"</h4>
+                <span>Vick from Kiel, Germany</span>
                 <p>
-                  Habe die passende Trenntoilette für meinen Camper gefunden und
-                  ich muss sagen es funktioniert super. Nimmt wenig Platz im
-                  Camper ein und ist absolut geruchslos. Super Qualität und
-                  fairer Preis.
+                  Have found the right composting toilet for my camper and I must say it works great. Takes up little space in the Camper and is absolutely odorless. Super quality and fair price.
                 </p>
               </div>
 
@@ -861,11 +832,10 @@
         <div class="row justify-content-center">
           <div class="col-lg-7">
             <div class="section-title text-center">
-              <div class="h2">Trenntoiletten Anbieter</div>
+              <div class="h2">Composting toilets supplier</div>
               <div class="divider mx-auto my-4"></div>
               <p class="lead">
-                Wir haben Deutschland's bekanntesten Trenntoiletten-Anbieter
-                getestet:
+                We have tested Germany's best-known composting toilet supplier tested:
               </p>
             </div>
           </div>
@@ -927,79 +897,60 @@
         <div class="row justify-content-center">
           <div class="col-lg-12">
             <div class="section-title text-center">
-              <div class="h2">Was ist eine Trenntoilette?</div>
+              <div class="h2">What is a composting toilet?</div>
               <div class="divider mx-auto my-4"></div>
               <p class="text-justify">
-                Grundsätzlich handelt es sich bei einer Trenntoilette um eine
-                Toilette, bei der Kot und Urin beim Toilettengang voneinander
-                getrennt werden. Dank dieses Trennmechanismus kommen
-                Trenntoiletten ohne Wasser und Chemie aus. Dies macht sie zu
-                einer idealen Lösung für eine Vielzahl von Einsatzbereichen,
-                beispielsweise im Garten, im Wohnmobil oder auch daheim.
+                Basically, a composting toilet is a toilet in which feces and urine are separated from each other when going to the toilet. Thanks to this separation mechanism composting toilets do not require water and chemicals. This makes them ideal solution for a wide range of applications, for example in the garden, in the motor home or even at home.
               </p>
 
               <p class="text-justify">
-                Mittlerweile gibt es eine Vielzahl von Herstellern und Modellen,
-                die alle ihre Vor- und Nachteile mit sich bringen. Daher haben
-                wir es uns zur Aufgabe gemacht, die verschiedenen Modelle zu
-                testen und zu vergleichen. In unseren Testberichten finden Sie
-                ausführliche Informationen zu den jeweiligen Trenntoiletten, so
-                dass diese ihnen als Entscheidungshilfe bei der Wahl der
-                richtigen Trenntoilette dienen können.
+                Meanwhile, there are a variety of manufacturers and models, all of which have their advantages and disadvantages. Therefore we have therefore made it our business to test and compare the various models. and compare them. In our test reports you will find detailed information on the respective composting toilets, so that these so that they can serve as a decision-making aid in choosing the right right composting toilet.
               </p>
 
-              <h3 class="h2 pt-5">Welche Trenntoilette ist die beste?</h3>
+              <h3 class="h2 pt-5">Which composting toilet is the best?</h3>
               <div class="divider mx-auto my-4"></div>
 
               <p class="text-justify">
-                Diese Frage stellen sich viele Interessierte, allerdings lässt
-                sich das gar nicht so pauschal beantworten. Beispielsweise gibt
-                es große Trenntoiletten mit Toilettenhäuschen, die vor allem im
-                Bereich Kleingarten eingesetzt werden, aber für die Mitnahme im
-                Wohnmobil ziemlich ungeeignet sind. Dann wiederum gibt es
-                kleine, handliche Modelle, die man problemlos ins Auto packen
-                und mit zum Camping nehmen kann. Die richtige Wahl hängt also
-                stark von Ihren persönlichen Präferenzen und Vorhaben ab.
+                This is a question that many interested parties ask themselves. however, it is not possible to give a general answer. For example, there are there are large composting toilets with toilet cubicles, which are mainly used in the allotment garden, but are quite unsuitable for use in a motorhome. mobile home are quite unsuitable. Then again there are small, handy models, which you can easily pack into the car and take them camping. So the right choice depends strongly on your personal preferences and intentions.
               </p>
 
               <h4 class="h2 pt-5">
-                Alle Vorteile einer Trenntoilette auf einen Blick
+                All advantages of a composting toilet at a glance
               </h4>
               <div class="divider mx-auto my-4"></div>
 
               <ul class="text-justify" style="list-style-type: none">
-                <li>Komfortable Toilettennutzung ohne Gerüche</li>
+                <li>Comfortable toilet use without odors</li>
 
-                <li>Autarker Einsatz ohne Wasser, Chemie und Strom</li>
+                <li>Self-sufficient use without water, chemicals and electricity</li>
 
-                <li>Hygienische Entleerung der Behälter</li>
+                <li>Hygienic emptying of the containers</li>
 
                 <li>
-                  Einfache Entsorgung der Ausscheidungen ohne
-                  Entsorgungsstationen
+                  Simple disposal of excrements without Disposal stations
                 </li>
 
-                <li>Toilettenabfälle können bei Bedarf kompostiert werden</li>
+                <li>Toilet waste can be composted if necessary</li>
 
-                <li>Leicht zu reinigen</li>
+                <li>Easy to clean</li>
               </ul>
 
-              <h5 class="h2 pt-6">So läuft der Trenntoiletten-Test ab</h5>
+              <h5 class="h2 pt-6">This is how the composting toilet test works</h5>
               <div class="divider mx-auto my-4"></div>
 
               <p class="text-justify">
-                Wenn wir uns eine Trenntoilette zum Testen vornehmen, geht es
-                ans Eingemachte. Das heißt, wir benutzen die Toiletten
-                tatsächlich für einige Zeit im Alltag und bewerten dabei unsere
-                persönlichen Erfahrungen. Wir achten dabei darauf, wie
-                komfortabel die jeweilige Trenntoilette ist, ob die Trennung
-                einwandfrei funktioniert und ob die Nutzung tatsächlich
-                geruchsfrei ist. Außerdem achten wir darauf, wie die
-                Verarbeitung ist, ob sich Behälter leicht entnehmen lassen und
-                was für Eigenheiten uns sonst noch so auffallen. Als Profis im
-                Bereich Trenntoilette wissen wir ganz genau, worauf es ankommt
-                und dieses Expertenwissen möchten wir Ihnen durch unsere
-                Testberichte weitergeben.
+                When we take on a composting toilet for testing, we get down to the
+                we get down to the nitty-gritty. That is, we actually use the toilets
+                toilets for some time in everyday life and evaluate our personal
+                personal experience. We pay attention to how
+                comfortable the respective composting toilet is, whether the separation works
+                functions properly and whether use is actually odor-free.
+                odor-free. We also pay attention to how the
+                whether the containers are easy to remove and what other features we notice.
+                what other peculiarities we notice. As professionals in the
+                we know exactly what is important and we would like to share this expertise with you.
+                and we would like to pass this expert knowledge on to you
+                pass on this expert knowledge to you through our test reports.
               </p>
             </div>
           </div>
@@ -1017,13 +968,13 @@ export default {
   head() {
     const routePath = this.$route.path;
     return {
-      title: "Trenntoilette - Alle Testsieger im Überblick",
+      title: "Composting toilet - All test winners at a glance",
       meta: [
         {
           hid: "description",
           name: "description",
           content:
-            "Trenntoilette für Garten, Haus und Camping im Vergleich. Wir haben einen Testsieger und helfen dir zu entscheiden, welche Trenntoilette für dich die richtige ist.",
+            "Composting toilet for garden, home and camping in comparison. We have a test winner and help you decide which separation toilet is right for you.",
         },
         {
           hid: "author",
