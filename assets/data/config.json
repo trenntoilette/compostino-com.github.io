@@ -28,5 +28,102 @@
         "/campingtoilette/": {
             "en": "/campingtoilet/"
         }
-    }
+    },
+    "navigationLinks": [
+        {
+            "linktitle": "composting toilet",
+            "linktext": "Start",
+            "url": "/"
+        },
+        {
+            "linktitle": "test winner composting toilets",
+            "linktext": "Test Winner",
+            "url": "/#sieger"
+        },
+        {
+            "linktitle": "areas of application of composting toilets",
+            "linktext": "Areas of Application",
+            "url": false,
+            "sublinks": [
+                {
+                    "linktitle": "garden toilet",
+                    "linktext": "Garden toilet",
+                    "url": "/gartentoilette/",
+                    "footerLink": true
+                },
+                {
+                    "linktitle": "campingtoilet",
+                    "linktext": "Camping toilet",
+                    "url": "/campingtoilet/",
+                    "footerLink": true
+                }
+            ]
+        },
+        {
+            "linktitle": "Equipment for composting toilets",
+            "linktext": "Equipment",
+            "url": false,
+            "sublinks": [
+                {
+                    "linktitle": "Litter for composting toilets",
+                    "linktext": "Litter",
+                    "url": "/einstreu/",
+                    "footerLink": true
+                }
+            ]
+        },
+        {
+            "linktitle": "Manufacturers of composting toilets",
+            "linktext": "Manufacturers",
+            "url": false,
+            "sublinks": [
+                {
+                    "linktitle": "Kildwick",
+                    "linktext": "Kildwick",
+                    "url": "/hersteller/kildwick/"
+                },
+                {
+                    "linktitle": "Trelino",
+                    "linktext": "Trelino",
+                    "url": "/hersteller/trelino/"
+                },
+                {
+                    "linktitle": "TROBOLO",
+                    "linktext": "TROBOLO",
+                    "url": "/hersteller/trobolo/"
+                },
+                {
+                    "linktitle": "Separett",
+                    "linktext": "Separett",
+                    "url": "/hersteller/separett/"
+                },
+                {
+                    "linktitle": "Kompotoi",
+                    "linktext": "Kompotoi",
+                    "url": "/hersteller/kompotoi/"
+                },
+                {
+                    "linktitle": "Boxio",
+                    "linktext": "Boxio",
+                    "url": "/hersteller/boxio/"
+                }
+            ]
+        },
+        {
+            "linktitle": "Composting toilet blog",
+            "linktext": "Blog",
+            "url": "/blog/",
+            "footerLink": true
+        },
+        {
+            "linktitle": "About us",
+            "linktext": "About us",
+            "url": "/#ueberuns"
+        },
+        {
+            "linktitle": "contact",
+            "linktext": "contact",
+            "url": "/#kontakt"
+        }
+    ]
 }
